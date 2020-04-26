@@ -15,7 +15,7 @@
  * TypeChild:
  *  message1 = C0
  * 
- * Just some text, and more text
+ * Just some text, and more text, and more
  * 
  */
 
